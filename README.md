@@ -37,8 +37,8 @@ Expansion possibilities:
 ![Diagram photo](./Diagram/Diagram_photo.jpg)
 
 ## Images
-![Image1](./Game photos/photo1.jpg)
+![Image1](./Images/photo1.jpg)
 
-![Image2](./Game photos/photo2.jpg)
+![Image2](./Images/photo2.jpg)
 
-![Image3](./Game photos/photo3.jpg)
+![Image3](./Images/photo3.jpg)
